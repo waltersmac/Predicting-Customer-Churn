@@ -18,8 +18,6 @@
 ## 4. Conclusion
 
 
-
-
 ## 5. Project Organisation
 
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
